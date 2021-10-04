@@ -1,0 +1,9 @@
+Database:
+
+MYSQL
+Username: 'root'
+Password: ''
+
+User Login (for JWT attempt)
+Username: your username
+Password:Password123
